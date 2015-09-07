@@ -1,0 +1,12 @@
+1. Patterns from videos 
+	i. Legnth - 06_03_1_0
+	ii. Blocks - 06_03_1_1
+
+2. Color with final pattern using DotStar
+ 	i. Version without index - 06_03_15_2_0
+	ii. Version with index for stopping - 
+
+3. Manual color control with FastLED 
+	i. Color with DotStar - 06_3_15_3_0
+	ii. Color with speed change (not great) - 06_03_15_3_1
+	iii. Color palette across whole strip - 06_03_15_3_2
